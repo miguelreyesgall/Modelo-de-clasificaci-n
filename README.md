@@ -1,4 +1,4 @@
-# rl
+# MODELO DE CLASIFICACIÓN
 El primer notebook por donde empezar es DataStagin_ifood.ipynb
 Posteriormnete en el siguente orden:
 2. EDA.ipynb (Visualización-Organización-limpieza de datos)
